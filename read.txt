@@ -1,0 +1,3 @@
+Any occurrence in node js is an event and the callback function is listener ( Function objects). Node js handle most of its core API in asynchronous event-driven architecture.
+
+There are two type of events in Node JS, build-in events and custom events. build-in events are done on OS level and custom events on NodeJS.
